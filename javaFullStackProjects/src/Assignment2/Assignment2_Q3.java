@@ -126,6 +126,5 @@ public class Assignment2_Q3 {
 		default:
 			System.out.println("!! Invaild input");
 		}
-
 	}
 }
